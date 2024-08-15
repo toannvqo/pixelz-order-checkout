@@ -1,0 +1,3 @@
+obj/Debug/net8.0/Protos/Payment.cs \
+obj/Debug/net8.0/Protos/PaymentGrpc.cs: /Users/quang/.nuget/packages/grpc.tools/2.33.1/build/native/include/google/protobuf/timestamp.proto\
+ Protos/Payment.proto

@@ -1,0 +1,17 @@
+/Users/quang/Documents/pixelz/ProductionService/bin/Debug/net8.0/ProductionService
+/Users/quang/Documents/pixelz/ProductionService/bin/Debug/net8.0/ProductionService.deps.json
+/Users/quang/Documents/pixelz/ProductionService/bin/Debug/net8.0/ProductionService.runtimeconfig.json
+/Users/quang/Documents/pixelz/ProductionService/bin/Debug/net8.0/ProductionService.dll
+/Users/quang/Documents/pixelz/ProductionService/bin/Debug/net8.0/ProductionService.pdb
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.AssemblyInfoInputs.cache
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.AssemblyInfo.cs
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.csproj.CoreCompileInputs.cache
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.dll
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/refint/ProductionService.dll
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.pdb
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.genruntimeconfig.cache
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ref/ProductionService.dll
+/Users/quang/Documents/pixelz/ProductionService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/ProductionService.csproj.AssemblyReference.cache
+/Users/quang/Documents/pixelz/ProductionService/obj/Debug/net8.0/Producti.414E578D.Up2Date

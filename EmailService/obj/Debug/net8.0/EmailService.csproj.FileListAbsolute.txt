@@ -1,0 +1,17 @@
+/Users/quang/Documents/pixelz/EmailService/bin/Debug/net8.0/EmailService
+/Users/quang/Documents/pixelz/EmailService/bin/Debug/net8.0/EmailService.deps.json
+/Users/quang/Documents/pixelz/EmailService/bin/Debug/net8.0/EmailService.runtimeconfig.json
+/Users/quang/Documents/pixelz/EmailService/bin/Debug/net8.0/EmailService.dll
+/Users/quang/Documents/pixelz/EmailService/bin/Debug/net8.0/EmailService.pdb
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.AssemblyInfoInputs.cache
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.AssemblyInfo.cs
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.csproj.CoreCompileInputs.cache
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.dll
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/refint/EmailService.dll
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.pdb
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.genruntimeconfig.cache
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/ref/EmailService.dll
+/Users/quang/Documents/pixelz/EmailService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailService.csproj.AssemblyReference.cache
+/Users/quang/Documents/pixelz/EmailService/obj/Debug/net8.0/EmailSer.199DDF96.Up2Date
